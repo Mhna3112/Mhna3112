@@ -1,54 +1,52 @@
-theme=tokyonight
-# 👋 Hi, I'm MANH
-
-🎓 First-year Information Technology Student  
-💻 Learning Programming & Web Development  
-🚀 Future Fullstack Developer  
+<h1 align="center">Hi 👋, I'm Nguyễn Đức Mạnh</h1>
+<h3 align="center">🚀 First-year IT Student | Future Fullstack Developer</h3>
 
 ---
 
-## 🙋‍♂️ About Me
+## 👨‍💻 About Me
 
-- 🎓 Currently studying IT (Year 1)
-- 🌱 Learning: C / C++ / Java / HTML / CSS
-- 🔥 Interested in: Web Development & Software Engineering
-- 🎯 Goal: Become a Fullstack Developer in 3–4 years
-- 📫 Email: manhntp22@gmail.com
+- 🎓 First-year Information Technology Student
+- 💻 Learning Programming & Web Development
+- 🔥 Interested in Software Engineering
+- 🎯 Goal: Become a Fullstack Developer in 3-4 years
+- 📫 Email: manhtp22@gmail.com
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Programming
+### 💻 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### 🌐 Web
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mhna3112&show_icons=true&theme=tokyonight" />
+</p>
 
-![Manh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mhna3112&show_icons=true&theme=radical&cache_seconds=1800)
 ---
 
 ## 🔥 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhna3112&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhna3112&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📌 Current Projects
+## 🌐 Connect with Me
 
-- 📚 Basic Programming Exercises
-- 🧮 Simple Calculator in C++
-- 🌐 Personal Portfolio (coming soon...)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manhtp22@gmail.com)
 
 ---
 
-✨ I'm just getting started. More cool projects coming soon!
+✨ Always learning. Always building.
