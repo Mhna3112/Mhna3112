@@ -32,8 +32,9 @@ theme=tokyonight
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mhna3112&show_icons=true&theme=radical&cache_seconds=1800)
+## 📊 GitHub Stats
 
+![Manh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mhna3112&show_icons=true&theme=radical&cache_seconds=1800)
 ---
 
 ## 🔥 Top Languages
