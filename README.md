@@ -6,7 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Nguyen+Duc+Manh;Tap+tanh+hoc+code;Python+%7C+Lua%2FLuau+%7C+C%2FC%2B%2B+%7C+HTML+%7C+JavaScript)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=Mhna3112&color=22c55e&style=for-the-badge)
 
 </div>
 
