@@ -56,9 +56,9 @@
 
 ## Featured Projects
 
-- [Project Name 1](https://github.com/Mhna3112/REPO_NAME_1) - Short description of your project.
-- [Project Name 2](https://github.com/Mhna3112/REPO_NAME_2) - Short description of your project.
-- [Project Name 3](https://github.com/Mhna3112/REPO_NAME_3) - Short description of your project.
+- [discord-bot-auto-quest](https://github.com/Mhna3112/discord-bot-auto-quest) - A Discord bot project focused on automating quest-related tasks.
+- [ROBLOX](https://github.com/Mhna3112/ROBLOX) - A collection of Roblox scripts and automation experiments.
+- [Learn-C-C-](https://github.com/Mhna3112/Learn-C-C-) - My practice repository for learning C and C++ step by step.
 
 ---
 
