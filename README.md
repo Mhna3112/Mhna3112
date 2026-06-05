@@ -27,7 +27,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,c,html,css,js,github,vscode,linux&perline=9)](https://skillicons.dev)
 
-![Claude](https://img.shields.io/badge/Claude-AI-D97706?style=for-the-badge)
 
 </div>
 
